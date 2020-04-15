@@ -1,0 +1,11 @@
+@charset "utf-8";
+/*基本レイアウトここから */
+
+footer p {
+    margin-bottom: 0;
+    padding: 14px 0 14px 0;
+    background-image: url(ierro.png);
+    background-repeat: repeat-x;
+    text-align: center;
+
+}
